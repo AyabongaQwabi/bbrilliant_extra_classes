@@ -8,4 +8,6 @@
 
 This webbsite has been bootstraped with the Gatsby Typescript starter template.
 
+*This is still a work in progress* 
+
 (https://github.com/fabien0102/gatsby-starter)[https://github.com/fabien0102/gatsby-starter]
