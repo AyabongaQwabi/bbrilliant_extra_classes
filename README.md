@@ -6,7 +6,7 @@
 [![Code Climate](https://codeclimate.com/github/fabien0102/gatsby-starter/badges/gpa.svg)](https://codeclimate.com/github/fabien0102/gatsby-starter)
 [![Test Coverage](https://codeclimate.com/github/fabien0102/gatsby-starter/badges/coverage.svg)](https://codeclimate.com/github/fabien0102/gatsby-starter/coverage)
 
-This webbsite has been bootstraped with the Gatsby Typescript starter template.
+This website has been bootstraped with the Gatsby Typescript starter template.
 
 *This is still a work in progress* 
 
