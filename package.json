@@ -31,6 +31,7 @@
     "@types/react-helmet": "5.0.0",
     "@types/react-redux": "^5.0.9",
     "@types/react-router": "4.0.30",
+    "@types/history": "4.7.0",
     "@types/react-router-dom": "4.3.0",
     "babel-eslint": "^7.2.1",
     "change-case": "^3.0.1",
@@ -63,7 +64,7 @@
     "semantic-ui-react": "^0.74.2",
     "slash": "1.0.0",
     "ts-loader": "^2.3.7",
-    "typescript": "2.5.3"
+    "typescript": "2.6.2"
   },
   "devDependencies": {
     "@storybook/addon-actions": "^3.2.14",
